@@ -10,11 +10,7 @@ form.form-container.my-form {
   padding: 0;
   min-height: 50px;
   max-width: none;
-  border: .0625rem solid #c1c1c1;
-  border-top-left-radius: 9px 8px;
-  border-top-right-radius: 9px 8px;
-  border-bottom-right-radius: 9px 8px;
-  border-bottom-left-radius: 9px 8px;
+  border: none;
   background-color: #242424;
   box-shadow: none;
   opacity: 1;
